@@ -1,0 +1,17 @@
+*{
+    height: auto;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    color: darkcyan;
+}
+
+a{
+    background-color: aliceblue;
+    margin: 80px;
+    padding: auto;
+}
